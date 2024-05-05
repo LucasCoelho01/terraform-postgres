@@ -1,2 +1,2 @@
 # terraform-postgres
-Terraform to deploy a Postgres intance on AWS RDS
+Terraform to deploy a Postgres intance on AWS RDS 
